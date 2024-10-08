@@ -1,0 +1,1608 @@
+fileFormatVersion: 2
+guid: 81cf9a3b9e8e87b4e8a5a2545b3d423b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 bone_eye_D_L
+    100004: Bip001 bone_eye_D_L_01
+    100006: Bip001 bone_eye_D_L_01Nub
+    100008: Bip001 bone_eye_D_L_02
+    100010: Bip001 bone_eye_D_L_02Nub
+    100012: Bip001 bone_eye_D_LNub
+    100014: Bip001 bone_eye_D_R
+    100016: Bip001 bone_eye_D_R_01
+    100018: Bip001 bone_eye_D_R_01Nub
+    100020: Bip001 bone_eye_D_R_02
+    100022: Bip001 bone_eye_D_R_02Nub
+    100024: Bip001 bone_eye_D_RNub
+    100026: Bip001 eye_L
+    100028: Bip001 eye_L_1
+    100030: Bip001 eye_L_1Nub
+    100032: Bip001 eye_L_2
+    100034: Bip001 eye_L_2Nub
+    100036: Bip001 eye_LNub
+    100038: Bip001 eye_R
+    100040: Bip001 eye_R_1
+    100042: Bip001 eye_R_1Nub
+    100044: Bip001 eye_R_2
+    100046: Bip001 eye_R_2Nub
+    100048: Bip001 eye_RNub
+    100050: Bip001 Head
+    100052: Bip001 HeadNub
+    100054: Bip001 L Calf
+    100056: Bip001 L Clavicle
+    100058: Bip001 L Finger0
+    100060: Bip001 L Finger01
+    100062: Bip001 L Finger0Nub
+    100064: Bip001 L Finger1
+    100066: Bip001 L Finger11
+    100068: Bip001 L Finger1Nub
+    100070: Bip001 L Finger2
+    100072: Bip001 L Finger21
+    100074: Bip001 L Finger2Nub
+    100076: Bip001 L Foot
+    100078: Bip001 L Forearm
+    100080: Bip001 L Hand
+    100082: Bip001 L Thigh
+    100084: Bip001 L Toe0
+    100086: Bip001 L Toe0Nub
+    100088: Bip001 L UpperArm
+    100090: Bip001 Neck
+    100092: Bip001 Pelvis
+    100094: Bip001 R Calf
+    100096: Bip001 R Clavicle
+    100098: Bip001 R Finger0
+    100100: Bip001 R Finger01
+    100102: Bip001 R Finger0Nub
+    100104: Bip001 R Finger1
+    100106: Bip001 R Finger11
+    100108: Bip001 R Finger1Nub
+    100110: Bip001 R Finger2
+    100112: Bip001 R Finger21
+    100114: Bip001 R Finger2Nub
+    100116: Bip001 R Foot
+    100118: Bip001 R Forearm
+    100120: Bip001 R Hand
+    100122: Bip001 R Thigh
+    100124: Bip001 R Toe0
+    100126: Bip001 R Toe0Nub
+    100128: Bip001 R UpperArm
+    100130: Bip001 Spine
+    100132: Bip001 Spine1
+    100134: Bip001 Tail
+    100136: Bip001 Tail1
+    100138: Bip001 Tail2
+    100140: Bip001 TailNub
+    100142: Bip001 Xtra_eyeblowL1
+    100144: Bip001 Xtra_eyeblowL1Nub
+    100146: Bip001 Xtra_eyeblowL2
+    100148: Bip001 Xtra_eyeblowL2Nub
+    100150: Bip001 Xtra_eyeblowR1
+    100152: Bip001 Xtra_eyeblowR1Nub
+    100154: Bip001 Xtra_eyeblowR2
+    100156: Bip001 Xtra_eyeblowR2Nub
+    100158: Bip001 Xtra_eyeL
+    100160: Bip001 Xtra_eyeLNub
+    100162: Bip001 Xtra_eyeR
+    100164: Bip001 Xtra_eyeRNub
+    100166: Bip001_Weapon
+    100168: Bone L ForeArm Twist
+    100170: Bone R ForeArm Twist
+    100172: bone_buttstock
+    100174: Bone_GamePad
+    100176: bone_hair_F_F_00
+    100178: bone_hair_F_L_00
+    100180: bone_hair_F_R_00
+    100182: bone_hair_L_00
+    100184: bone_hair_L_01
+    100186: bone_hair_L_02
+    100188: bone_hair_R_00
+    100190: bone_hair_R_01
+    100192: bone_hair_R_02
+    100194: bone_magazine
+    100196: bone_root
+    100198: bone_skirtB00
+    100200: bone_skirtB01
+    100202: bone_skirtB02
+    100204: bone_skirtB03
+    100206: bone_skirtB04
+    100208: bone_skirtB_L_00
+    100210: bone_skirtB_L_01
+    100212: bone_skirtB_L_02
+    100214: bone_skirtB_L_03
+    100216: bone_skirtB_L_04
+    100218: bone_skirtB_R_00
+    100220: bone_skirtB_R_01
+    100222: bone_skirtB_R_02
+    100224: bone_skirtB_R_03
+    100226: bone_skirtB_R_04
+    100228: bone_skirtF00
+    100230: bone_skirtF01
+    100232: bone_skirtF02
+    100234: bone_skirtF03
+    100236: bone_skirtF_L_00
+    100238: bone_skirtF_L_01
+    100240: bone_skirtF_L_02
+    100242: bone_skirtF_L_03
+    100244: bone_skirtF_L_04
+    100246: bone_skirtF_R_00
+    100248: bone_skirtF_R_01
+    100250: bone_skirtF_R_02
+    100252: bone_skirtF_R_03
+    100254: bone_skirtF_R_04
+    100256: bone_skirtL00
+    100258: bone_skirtL01
+    100260: bone_skirtL02
+    100262: bone_skirtL03
+    100264: bone_skirtL04
+    100266: bone_skirtR00
+    100268: bone_skirtR01
+    100270: bone_skirtR02
+    100272: bone_skirtR03
+    100274: bone_skirtR04
+    100276: Camera001
+    100278: Camera001.Target
+    100280: Directional Light
+    100282: Ex_Root
+    100284: fire_01
+    100286: fire_02
+    100288: Fx_Local_DM
+    100290: HaloRoot
+    100292: //RootNode
+    100294: Momoi_Original
+    100296: Momoi_Original_Body
+    100298: Momoi_Original_Exs_Cutin_Cam
+    100300: Momoi_Original_GamePad
+    100302: Momoi_Original_Halo
+    100304: Momoi_Original_Weapon
+    100306: Point001
+    100308: Point002
+    400000: Bip001
+    400002: Bip001 bone_eye_D_L
+    400004: Bip001 bone_eye_D_L_01
+    400006: Bip001 bone_eye_D_L_01Nub
+    400008: Bip001 bone_eye_D_L_02
+    400010: Bip001 bone_eye_D_L_02Nub
+    400012: Bip001 bone_eye_D_LNub
+    400014: Bip001 bone_eye_D_R
+    400016: Bip001 bone_eye_D_R_01
+    400018: Bip001 bone_eye_D_R_01Nub
+    400020: Bip001 bone_eye_D_R_02
+    400022: Bip001 bone_eye_D_R_02Nub
+    400024: Bip001 bone_eye_D_RNub
+    400026: Bip001 eye_L
+    400028: Bip001 eye_L_1
+    400030: Bip001 eye_L_1Nub
+    400032: Bip001 eye_L_2
+    400034: Bip001 eye_L_2Nub
+    400036: Bip001 eye_LNub
+    400038: Bip001 eye_R
+    400040: Bip001 eye_R_1
+    400042: Bip001 eye_R_1Nub
+    400044: Bip001 eye_R_2
+    400046: Bip001 eye_R_2Nub
+    400048: Bip001 eye_RNub
+    400050: Bip001 Head
+    400052: Bip001 HeadNub
+    400054: Bip001 L Calf
+    400056: Bip001 L Clavicle
+    400058: Bip001 L Finger0
+    400060: Bip001 L Finger01
+    400062: Bip001 L Finger0Nub
+    400064: Bip001 L Finger1
+    400066: Bip001 L Finger11
+    400068: Bip001 L Finger1Nub
+    400070: Bip001 L Finger2
+    400072: Bip001 L Finger21
+    400074: Bip001 L Finger2Nub
+    400076: Bip001 L Foot
+    400078: Bip001 L Forearm
+    400080: Bip001 L Hand
+    400082: Bip001 L Thigh
+    400084: Bip001 L Toe0
+    400086: Bip001 L Toe0Nub
+    400088: Bip001 L UpperArm
+    400090: Bip001 Neck
+    400092: Bip001 Pelvis
+    400094: Bip001 R Calf
+    400096: Bip001 R Clavicle
+    400098: Bip001 R Finger0
+    400100: Bip001 R Finger01
+    400102: Bip001 R Finger0Nub
+    400104: Bip001 R Finger1
+    400106: Bip001 R Finger11
+    400108: Bip001 R Finger1Nub
+    400110: Bip001 R Finger2
+    400112: Bip001 R Finger21
+    400114: Bip001 R Finger2Nub
+    400116: Bip001 R Foot
+    400118: Bip001 R Forearm
+    400120: Bip001 R Hand
+    400122: Bip001 R Thigh
+    400124: Bip001 R Toe0
+    400126: Bip001 R Toe0Nub
+    400128: Bip001 R UpperArm
+    400130: Bip001 Spine
+    400132: Bip001 Spine1
+    400134: Bip001 Tail
+    400136: Bip001 Tail1
+    400138: Bip001 Tail2
+    400140: Bip001 TailNub
+    400142: Bip001 Xtra_eyeblowL1
+    400144: Bip001 Xtra_eyeblowL1Nub
+    400146: Bip001 Xtra_eyeblowL2
+    400148: Bip001 Xtra_eyeblowL2Nub
+    400150: Bip001 Xtra_eyeblowR1
+    400152: Bip001 Xtra_eyeblowR1Nub
+    400154: Bip001 Xtra_eyeblowR2
+    400156: Bip001 Xtra_eyeblowR2Nub
+    400158: Bip001 Xtra_eyeL
+    400160: Bip001 Xtra_eyeLNub
+    400162: Bip001 Xtra_eyeR
+    400164: Bip001 Xtra_eyeRNub
+    400166: Bip001_Weapon
+    400168: Bone L ForeArm Twist
+    400170: Bone R ForeArm Twist
+    400172: bone_buttstock
+    400174: Bone_GamePad
+    400176: bone_hair_F_F_00
+    400178: bone_hair_F_L_00
+    400180: bone_hair_F_R_00
+    400182: bone_hair_L_00
+    400184: bone_hair_L_01
+    400186: bone_hair_L_02
+    400188: bone_hair_R_00
+    400190: bone_hair_R_01
+    400192: bone_hair_R_02
+    400194: bone_magazine
+    400196: bone_root
+    400198: bone_skirtB00
+    400200: bone_skirtB01
+    400202: bone_skirtB02
+    400204: bone_skirtB03
+    400206: bone_skirtB04
+    400208: bone_skirtB_L_00
+    400210: bone_skirtB_L_01
+    400212: bone_skirtB_L_02
+    400214: bone_skirtB_L_03
+    400216: bone_skirtB_L_04
+    400218: bone_skirtB_R_00
+    400220: bone_skirtB_R_01
+    400222: bone_skirtB_R_02
+    400224: bone_skirtB_R_03
+    400226: bone_skirtB_R_04
+    400228: bone_skirtF00
+    400230: bone_skirtF01
+    400232: bone_skirtF02
+    400234: bone_skirtF03
+    400236: bone_skirtF_L_00
+    400238: bone_skirtF_L_01
+    400240: bone_skirtF_L_02
+    400242: bone_skirtF_L_03
+    400244: bone_skirtF_L_04
+    400246: bone_skirtF_R_00
+    400248: bone_skirtF_R_01
+    400250: bone_skirtF_R_02
+    400252: bone_skirtF_R_03
+    400254: bone_skirtF_R_04
+    400256: bone_skirtL00
+    400258: bone_skirtL01
+    400260: bone_skirtL02
+    400262: bone_skirtL03
+    400264: bone_skirtL04
+    400266: bone_skirtR00
+    400268: bone_skirtR01
+    400270: bone_skirtR02
+    400272: bone_skirtR03
+    400274: bone_skirtR04
+    400276: Camera001
+    400278: Camera001.Target
+    400280: Directional Light
+    400282: Ex_Root
+    400284: fire_01
+    400286: fire_02
+    400288: Fx_Local_DM
+    400290: HaloRoot
+    400292: //RootNode
+    400294: Momoi_Original
+    400296: Momoi_Original_Body
+    400298: Momoi_Original_Exs_Cutin_Cam
+    400300: Momoi_Original_GamePad
+    400302: Momoi_Original_Halo
+    400304: Momoi_Original_Weapon
+    400306: Point001
+    400308: Point002
+    2100000: Momoi_Original_Body
+    2100002: Momoi_Original_Hair
+    2100004: Momoi_Original_Face
+    2100006: Momoi_Original_EyeMouth
+    2100008: Momoi_Original_EyeBrow
+    2100010: Momoi_Original_GamePad
+    2100012: Momoi_Original_Weapon
+    2100014: Momoi_Original_Halo
+    2300000: Momoi_Original_Halo
+    3300000: Momoi_Original_Halo
+    4300000: Momoi_Original_Body
+    4300002: Momoi_Original_GamePad
+    4300004: Momoi_Original_Weapon
+    4300006: Momoi_Original_Halo
+    7400000: Momoi_Original_Public01
+    7400002: Momoi_Original_Kneel_Reload
+    7400004: Momoi_Original_Normal_Callsign
+    7400006: Momoi_Original_Normal_Attack_End
+    7400008: Momoi_Original_Move_End_Normal
+    7400010: Momoi_Original_Normal_Idle
+    7400012: Momoi_Original_Kneel_Attack_Ing
+    7400014: Momoi_Original_Vital_Death
+    7400016: Momoi_Original_Vital_Panic
+    7400018: Momoi_Original_Kneel_Idle
+    7400020: Momoi_Original_Move_Jump
+    7400022: Momoi_Original_Victory_Start
+    7400024: Momoi_Original_Cafe_Idle
+    7400026: Momoi_Original_Kneel_Attack_Delay
+    7400028: Momoi_Original_Exs_Cutin_Momoi
+    7400030: Momoi_Original_Exs
+    7400032: Momoi_Original_Normal_Attack_Ing
+    7400034: Momoi_Original_Stand_Attack_Ing
+    7400036: Momoi_Original_Stand_Idle
+    7400038: Momoi_Original_Stand_Reload
+    7400040: Momoi_Original_Normal_Attack_Delay
+    7400042: Momoi_Original_Move_End_Stand
+    7400044: Momoi_Original_Exs_Cutin_Midori
+    7400046: Momoi_Original_Move_Ing
+    7400048: Momoi_Original_Vital_Retreat
+    7400050: Momoi_Original_Move_End_Kneel
+    7400052: Momoi_Original_Stand_Attack_End
+    7400054: Momoi_Original_Formation_Idle
+    7400056: Recorded (2)
+    7400058: Momoi_Original_Cafe_Walk
+    7400060: Momoi_Original_Stand_Attack_Start
+    7400062: Momoi_Original_Normal_Reload
+    7400064: Momoi_Original_Stand_Attack_Delay
+    7400066: Momoi_Original_Kneel_Attack_End
+    7400068: Momoi_Original_Exs_Cutin_Cam
+    7400070: Momoi_Original_Normal_Attack_Start
+    7400072: Momoi_Original_Cafe_Reaction
+    7400074: Momoi_Original_Formation_Pickup
+    7400076: Momoi_Original_Vital_Dying_ing
+    7400078: Momoi_Original_Kneel_Attack_Start
+    7400080: Momoi_Original_Victory_End
+    9500000: //RootNode
+    13700000: Momoi_Original_Body
+    13700002: Momoi_Original_GamePad
+    13700004: Momoi_Original_Weapon
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Momoi_Original_Public01
+      takeName: Momoi_Original_Public01
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Kneel_Reload
+      takeName: Momoi_Original_Kneel_Reload
+      firstFrame: 0
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Normal_Callsign
+      takeName: Momoi_Original_Normal_Callsign
+      firstFrame: 0
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Normal_Attack_End
+      takeName: Momoi_Original_Normal_Attack_End
+      firstFrame: 0
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Move_End_Normal
+      takeName: Momoi_Original_Move_End_Normal
+      firstFrame: 0
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Normal_Idle
+      takeName: Momoi_Original_Normal_Idle
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Kneel_Attack_Ing
+      takeName: Momoi_Original_Kneel_Attack_Ing
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Vital_Death
+      takeName: Momoi_Original_Vital_Death
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Vital_Panic
+      takeName: Momoi_Original_Vital_Panic
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Kneel_Idle
+      takeName: Momoi_Original_Kneel_Idle
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Move_Jump
+      takeName: Momoi_Original_Move_Jump
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Victory_Start
+      takeName: Momoi_Original_Victory_Start
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Cafe_Idle
+      takeName: Momoi_Original_Cafe_Idle
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Kneel_Attack_Delay
+      takeName: Momoi_Original_Kneel_Attack_Delay
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Exs_Cutin_Momoi
+      takeName: Momoi_Original_Exs_Cutin_Momoi
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Exs
+      takeName: Momoi_Original_Exs
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Normal_Attack_Ing
+      takeName: Momoi_Original_Normal_Attack_Ing
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Stand_Attack_Ing
+      takeName: Momoi_Original_Stand_Attack_Ing
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Stand_Idle
+      takeName: Momoi_Original_Stand_Idle
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Stand_Reload
+      takeName: Momoi_Original_Stand_Reload
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Normal_Attack_Delay
+      takeName: Momoi_Original_Normal_Attack_Delay
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Move_End_Stand
+      takeName: Momoi_Original_Move_End_Stand
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Exs_Cutin_Midori
+      takeName: Momoi_Original_Exs_Cutin_Midori
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Move_Ing
+      takeName: Momoi_Original_Move_Ing
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Vital_Retreat
+      takeName: Momoi_Original_Vital_Retreat
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Move_End_Kneel
+      takeName: Momoi_Original_Move_End_Kneel
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Stand_Attack_End
+      takeName: Momoi_Original_Stand_Attack_End
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Formation_Idle
+      takeName: Momoi_Original_Formation_Idle
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Recorded (2)
+      takeName: Recorded (2)
+      firstFrame: 0
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Cafe_Walk
+      takeName: Momoi_Original_Cafe_Walk
+      firstFrame: 0
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Stand_Attack_Start
+      takeName: Momoi_Original_Stand_Attack_Start
+      firstFrame: 0
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Normal_Reload
+      takeName: Momoi_Original_Normal_Reload
+      firstFrame: 0
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Stand_Attack_Delay
+      takeName: Momoi_Original_Stand_Attack_Delay
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Kneel_Attack_End
+      takeName: Momoi_Original_Kneel_Attack_End
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Exs_Cutin_Cam
+      takeName: Momoi_Original_Exs_Cutin_Cam
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Normal_Attack_Start
+      takeName: Momoi_Original_Normal_Attack_Start
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Cafe_Reaction
+      takeName: Momoi_Original_Cafe_Reaction
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Formation_Pickup
+      takeName: Momoi_Original_Formation_Pickup
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Vital_Dying_ing
+      takeName: Momoi_Original_Vital_Dying_ing
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Kneel_Attack_Start
+      takeName: Momoi_Original_Kneel_Attack_Start
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Momoi_Original_Victory_End
+      takeName: Momoi_Original_Victory_End
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

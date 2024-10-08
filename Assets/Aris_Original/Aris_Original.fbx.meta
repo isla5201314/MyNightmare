@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: d708587d01b59394288240b10ca738f9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Aris_Original_Body
+    100004: Aris_Original_Exs_Cam
+    100006: Aris_Original_Halo
+    100008: Aris_Original_Weapon
+    100010: Bbone_Railgunup_part_02
+    100012: Bip001
+    100014: Bip001 bone_eye_D_L
+    100016: Bip001 bone_eye_D_L_01
+    100018: Bip001 bone_eye_D_L_02
+    100020: Bip001 bone_eye_D_R
+    100022: Bip001 bone_eye_D_R_01
+    100024: Bip001 bone_eye_D_R_02
+    100026: Bip001 eye_L
+    100028: Bip001 eye_L_1
+    100030: Bip001 eye_L_2
+    100032: Bip001 eye_R
+    100034: Bip001 eye_R_1
+    100036: Bip001 eye_R_2
+    100038: Bip001 Head
+    100040: Bip001 L Calf
+    100042: Bip001 L Clavicle
+    100044: Bip001 L Finger0
+    100046: Bip001 L Finger01
+    100048: Bip001 L Finger1
+    100050: Bip001 L Finger11
+    100052: Bip001 L Finger2
+    100054: Bip001 L Finger21
+    100056: Bip001 L Foot
+    100058: Bip001 L Forearm
+    100060: Bip001 L Hand
+    100062: Bip001 L Thigh
+    100064: Bip001 L Toe0
+    100066: Bip001 L UpperArm
+    100068: Bip001 Neck
+    100070: Bip001 Pelvis
+    100072: Bip001 R Calf
+    100074: Bip001 R Clavicle
+    100076: Bip001 R Finger0
+    100078: Bip001 R Finger01
+    100080: Bip001 R Finger1
+    100082: Bip001 R Finger11
+    100084: Bip001 R Finger2
+    100086: Bip001 R Finger21
+    100088: Bip001 R Foot
+    100090: Bip001 R Forearm
+    100092: Bip001 R Hand
+    100094: Bip001 R Thigh
+    100096: Bip001 R Toe0
+    100098: Bip001 R UpperArm
+    100100: Bip001 Spine
+    100102: Bip001 Spine1
+    100104: Bip001 Xtra_eyeblowL1
+    100106: Bip001 Xtra_eyeblowL2
+    100108: Bip001 Xtra_eyeblowR1
+    100110: Bip001 Xtra_eyeblowR2
+    100112: Bip001 Xtra_eyeL
+    100114: Bip001 Xtra_eyeR
+    100116: Bip001_B_L Deltoid
+    100118: Bip001_B_R Deltoid
+    100120: Bip001_Weapon
+    100122: Bone L ForeArm Twist
+    100124: Bone R ForeArm Twist
+    100126: Bone_deco_01
+    100128: Bone_deco_02_01
+    100130: Bone_deco_02_02
+    100132: bone_Eyering_L_01
+    100134: bone_Eyering_L_02
+    100136: bone_Eyering_L_03
+    100138: bone_Eyering_R_01
+    100140: bone_Eyering_R_02
+    100142: bone_Eyering_R_03
+    100144: bone_hair_b_l_01
+    100146: bone_hair_b_l_02
+    100148: bone_hair_b_l_03
+    100150: bone_hair_b_l_04
+    100152: bone_hair_b_l_05
+    100154: bone_hair_b_m_01
+    100156: bone_hair_b_m_02
+    100158: bone_hair_b_m_03
+    100160: bone_hair_b_m_04
+    100162: bone_hair_b_m_05
+    100164: bone_hair_b_r_01
+    100166: bone_hair_b_r_02
+    100168: bone_hair_b_r_03
+    100170: bone_hair_b_r_04
+    100172: bone_hair_b_r_05
+    100174: bone_hair_f_01
+    100176: bone_hair_f_02
+    100178: bone_hair_f_03
+    100180: bone_hair_f_04
+    100182: bone_hair_f_05
+    100184: bone_hair_l_01
+    100186: bone_hair_l_02
+    100188: bone_hair_l_03
+    100190: bone_hair_l_04
+    100192: bone_hair_l_05
+    100194: bone_hair_l_06
+    100196: bone_hair_l_07
+    100198: bone_hair_m_l_01
+    100200: bone_hair_m_l_02
+    100202: bone_hair_m_l_03
+    100204: bone_hair_m_l_04
+    100206: bone_hair_m_l_05
+    100208: bone_hair_m_r_01
+    100210: bone_hair_m_r_02
+    100212: bone_hair_m_r_03
+    100214: bone_hair_m_r_04
+    100216: bone_hair_m_r_05
+    100218: bone_Lapel_l_01
+    100220: bone_Lapel_l_02
+    100222: bone_Lapel_r_01
+    100224: bone_Lapel_r_02
+    100226: bone_magazine
+    100228: bone_Necktie01
+    100230: bone_Necktie02
+    100232: bone_Necktie03
+    100234: bone_Railgun_Muzzle_01
+    100236: bone_Railgun_Muzzle_02
+    100238: bone_Railgun_Muzzle_03
+    100240: bone_Railgundown_01
+    100242: bone_Railgundown_02
+    100244: bone_Railgunup_00
+    100246: bone_Railgunup_01
+    100248: bone_Railgunup_02
+    100250: bone_Railgunup_Hand
+    100252: bone_Railgunup_part_01
+    100254: bone_Railgunup_part_01 1
+    100256: bone_Railgunup_part_02
+    100258: bone_Railgunup_part_03
+    100260: bone_Railgunup_part_03 1
+    100262: bone_Railgunup_part_04
+    100264: bone_Railgunup_part_04 1
+    100266: bone_root
+    100268: bone_skirtB00
+    100270: bone_skirtB01
+    100272: bone_skirtB02
+    100274: bone_skirtB03
+    100276: bone_skirtB04
+    100278: bone_skirtB_L_00
+    100280: bone_skirtB_L_01
+    100282: bone_skirtB_L_02
+    100284: bone_skirtB_L_03
+    100286: bone_skirtB_L_04
+    100288: bone_skirtB_R_00
+    100290: bone_skirtB_R_01
+    100292: bone_skirtB_R_02
+    100294: bone_skirtB_R_03
+    100296: bone_skirtB_R_04
+    100298: bone_skirtF00
+    100300: bone_skirtF01
+    100302: bone_skirtF02
+    100304: bone_skirtF03
+    100306: bone_skirtF_L_00
+    100308: bone_skirtF_L_01
+    100310: bone_skirtF_L_02
+    100312: bone_skirtF_L_03
+    100314: bone_skirtF_L_04
+    100316: bone_skirtF_R_00
+    100318: bone_skirtF_R_01
+    100320: bone_skirtF_R_02
+    100322: bone_skirtF_R_03
+    100324: bone_skirtF_R_04
+    100326: bone_skirtL00
+    100328: bone_skirtL01
+    100330: bone_skirtL02
+    100332: bone_skirtL03
+    100334: bone_skirtL04
+    100336: bone_skirtR00
+    100338: bone_skirtR01
+    100340: bone_skirtR02
+    100342: bone_skirtR03
+    100344: bone_skirtR04
+    100346: Camera001
+    100348: Camera001.Target
+    100350: Directional Light
+    100352: Ex_Root
+    100354: fire_01
+    100356: fire_02
+    100358: FX_Aris_Original_Weapon
+    100360: FX_Local_DM
+    100362: HaloRoot
+    100364: Point024
+    100366: Point025
+    100368: Point026
+    100370: Point027
+    400000: //RootNode
+    400002: Aris_Original_Body
+    400004: Aris_Original_Exs_Cam
+    400006: Aris_Original_Halo
+    400008: Aris_Original_Weapon
+    400010: Bbone_Railgunup_part_02
+    400012: Bip001
+    400014: Bip001 bone_eye_D_L
+    400016: Bip001 bone_eye_D_L_01
+    400018: Bip001 bone_eye_D_L_02
+    400020: Bip001 bone_eye_D_R
+    400022: Bip001 bone_eye_D_R_01
+    400024: Bip001 bone_eye_D_R_02
+    400026: Bip001 eye_L
+    400028: Bip001 eye_L_1
+    400030: Bip001 eye_L_2
+    400032: Bip001 eye_R
+    400034: Bip001 eye_R_1
+    400036: Bip001 eye_R_2
+    400038: Bip001 Head
+    400040: Bip001 L Calf
+    400042: Bip001 L Clavicle
+    400044: Bip001 L Finger0
+    400046: Bip001 L Finger01
+    400048: Bip001 L Finger1
+    400050: Bip001 L Finger11
+    400052: Bip001 L Finger2
+    400054: Bip001 L Finger21
+    400056: Bip001 L Foot
+    400058: Bip001 L Forearm
+    400060: Bip001 L Hand
+    400062: Bip001 L Thigh
+    400064: Bip001 L Toe0
+    400066: Bip001 L UpperArm
+    400068: Bip001 Neck
+    400070: Bip001 Pelvis
+    400072: Bip001 R Calf
+    400074: Bip001 R Clavicle
+    400076: Bip001 R Finger0
+    400078: Bip001 R Finger01
+    400080: Bip001 R Finger1
+    400082: Bip001 R Finger11
+    400084: Bip001 R Finger2
+    400086: Bip001 R Finger21
+    400088: Bip001 R Foot
+    400090: Bip001 R Forearm
+    400092: Bip001 R Hand
+    400094: Bip001 R Thigh
+    400096: Bip001 R Toe0
+    400098: Bip001 R UpperArm
+    400100: Bip001 Spine
+    400102: Bip001 Spine1
+    400104: Bip001 Xtra_eyeblowL1
+    400106: Bip001 Xtra_eyeblowL2
+    400108: Bip001 Xtra_eyeblowR1
+    400110: Bip001 Xtra_eyeblowR2
+    400112: Bip001 Xtra_eyeL
+    400114: Bip001 Xtra_eyeR
+    400116: Bip001_B_L Deltoid
+    400118: Bip001_B_R Deltoid
+    400120: Bip001_Weapon
+    400122: Bone L ForeArm Twist
+    400124: Bone R ForeArm Twist
+    400126: Bone_deco_01
+    400128: Bone_deco_02_01
+    400130: Bone_deco_02_02
+    400132: bone_Eyering_L_01
+    400134: bone_Eyering_L_02
+    400136: bone_Eyering_L_03
+    400138: bone_Eyering_R_01
+    400140: bone_Eyering_R_02
+    400142: bone_Eyering_R_03
+    400144: bone_hair_b_l_01
+    400146: bone_hair_b_l_02
+    400148: bone_hair_b_l_03
+    400150: bone_hair_b_l_04
+    400152: bone_hair_b_l_05
+    400154: bone_hair_b_m_01
+    400156: bone_hair_b_m_02
+    400158: bone_hair_b_m_03
+    400160: bone_hair_b_m_04
+    400162: bone_hair_b_m_05
+    400164: bone_hair_b_r_01
+    400166: bone_hair_b_r_02
+    400168: bone_hair_b_r_03
+    400170: bone_hair_b_r_04
+    400172: bone_hair_b_r_05
+    400174: bone_hair_f_01
+    400176: bone_hair_f_02
+    400178: bone_hair_f_03
+    400180: bone_hair_f_04
+    400182: bone_hair_f_05
+    400184: bone_hair_l_01
+    400186: bone_hair_l_02
+    400188: bone_hair_l_03
+    400190: bone_hair_l_04
+    400192: bone_hair_l_05
+    400194: bone_hair_l_06
+    400196: bone_hair_l_07
+    400198: bone_hair_m_l_01
+    400200: bone_hair_m_l_02
+    400202: bone_hair_m_l_03
+    400204: bone_hair_m_l_04
+    400206: bone_hair_m_l_05
+    400208: bone_hair_m_r_01
+    400210: bone_hair_m_r_02
+    400212: bone_hair_m_r_03
+    400214: bone_hair_m_r_04
+    400216: bone_hair_m_r_05
+    400218: bone_Lapel_l_01
+    400220: bone_Lapel_l_02
+    400222: bone_Lapel_r_01
+    400224: bone_Lapel_r_02
+    400226: bone_magazine
+    400228: bone_Necktie01
+    400230: bone_Necktie02
+    400232: bone_Necktie03
+    400234: bone_Railgun_Muzzle_01
+    400236: bone_Railgun_Muzzle_02
+    400238: bone_Railgun_Muzzle_03
+    400240: bone_Railgundown_01
+    400242: bone_Railgundown_02
+    400244: bone_Railgunup_00
+    400246: bone_Railgunup_01
+    400248: bone_Railgunup_02
+    400250: bone_Railgunup_Hand
+    400252: bone_Railgunup_part_01
+    400254: bone_Railgunup_part_01 1
+    400256: bone_Railgunup_part_02
+    400258: bone_Railgunup_part_03
+    400260: bone_Railgunup_part_03 1
+    400262: bone_Railgunup_part_04
+    400264: bone_Railgunup_part_04 1
+    400266: bone_root
+    400268: bone_skirtB00
+    400270: bone_skirtB01
+    400272: bone_skirtB02
+    400274: bone_skirtB03
+    400276: bone_skirtB04
+    400278: bone_skirtB_L_00
+    400280: bone_skirtB_L_01
+    400282: bone_skirtB_L_02
+    400284: bone_skirtB_L_03
+    400286: bone_skirtB_L_04
+    400288: bone_skirtB_R_00
+    400290: bone_skirtB_R_01
+    400292: bone_skirtB_R_02
+    400294: bone_skirtB_R_03
+    400296: bone_skirtB_R_04
+    400298: bone_skirtF00
+    400300: bone_skirtF01
+    400302: bone_skirtF02
+    400304: bone_skirtF03
+    400306: bone_skirtF_L_00
+    400308: bone_skirtF_L_01
+    400310: bone_skirtF_L_02
+    400312: bone_skirtF_L_03
+    400314: bone_skirtF_L_04
+    400316: bone_skirtF_R_00
+    400318: bone_skirtF_R_01
+    400320: bone_skirtF_R_02
+    400322: bone_skirtF_R_03
+    400324: bone_skirtF_R_04
+    400326: bone_skirtL00
+    400328: bone_skirtL01
+    400330: bone_skirtL02
+    400332: bone_skirtL03
+    400334: bone_skirtL04
+    400336: bone_skirtR00
+    400338: bone_skirtR01
+    400340: bone_skirtR02
+    400342: bone_skirtR03
+    400344: bone_skirtR04
+    400346: Camera001
+    400348: Camera001.Target
+    400350: Directional Light
+    400352: Ex_Root
+    400354: fire_01
+    400356: fire_02
+    400358: FX_Aris_Original_Weapon
+    400360: FX_Local_DM
+    400362: HaloRoot
+    400364: Point024
+    400366: Point025
+    400368: Point026
+    400370: Point027
+    2100000: Aris_Original_Body
+    2100002: Aris_Original_Face
+    2100004: Aris_Original_EyeMouth
+    2100006: Aris_Original_Eyebrow
+    2100008: Aris_Original_Hair
+    2100010: Aris_Original_Weapon
+    2100012: Aris_Original_Weapon_Glow
+    2100014: Aris_Original_Halo
+    2300000: Aris_Original_Halo
+    3300000: Aris_Original_Halo
+    4300000: Aris_Original_Body
+    4300002: Aris_Original_Weapon
+    4300004: FX_Aris_Original_Weapon
+    4300006: Aris_Original_Halo
+    7400000: Aris_Original_Exs_Cam
+    7400002: Aris_Original_Victory_Start
+    7400004: Aris_Original_Exs_Cam_1
+    7400006: Aris_Original_Normal_Idle
+    7400008: Aris_Original_Normal_Attack_Start
+    7400010: Aris_Original_Normal_Reload
+    7400012: Aris_Original_Normal_Attack_Ing
+    7400014: Aris_Original_Vital_Death
+    7400016: Aris_Original_Formation_Idle
+    7400018: Aris_Original_Formation_Pickup
+    7400020: Aris_Original_Public01
+    7400022: Aris_Original_Normal_Callsign
+    7400024: Aris_Original_Move_Ing
+    7400026: Aris_Original_Move_End_Normal
+    7400028: Aris_Original_Vital_Retreat
+    7400030: Aris_Original_Exs_Root
+    7400032: Aris_Original_Victory_End
+    7400034: Aris_Original_Cafe_Reaction
+    7400036: Aris_Original_Normal_Attack_End
+    7400038: Aris_Original_Normal_Attack_Delay
+    7400040: Aris_Original_Exs
+    7400042: Aris_Original_Exs_Cutin
+    7400044: Aris_Original_Cafe_Idle
+    7400046: Aris_Original_Vital_Panic
+    7400048: Aris_Original_Vital_Dying_Ing
+    7400050: Aris_Original_Cafe_Walk
+    9500000: //RootNode
+    13700000: Aris_Original_Body
+    13700002: Aris_Original_Weapon
+    13700004: FX_Aris_Original_Weapon
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Aris_Original_Exs_Cam
+      takeName: Aris_Original_Exs_Cam
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Victory_Start
+      takeName: Aris_Original_Victory_Start
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Exs_Cam_1
+      takeName: Aris_Original_Exs_Cam_1
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Normal_Idle
+      takeName: Aris_Original_Normal_Idle
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Normal_Attack_Start
+      takeName: Aris_Original_Normal_Attack_Start
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Normal_Reload
+      takeName: Aris_Original_Normal_Reload
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Normal_Attack_Ing
+      takeName: Aris_Original_Normal_Attack_Ing
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Vital_Death
+      takeName: Aris_Original_Vital_Death
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Formation_Idle
+      takeName: Aris_Original_Formation_Idle
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Formation_Pickup
+      takeName: Aris_Original_Formation_Pickup
+      firstFrame: 0
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Public01
+      takeName: Aris_Original_Public01
+      firstFrame: 0
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Normal_Callsign
+      takeName: Aris_Original_Normal_Callsign
+      firstFrame: 0
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Move_Ing
+      takeName: Aris_Original_Move_Ing
+      firstFrame: 0
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Move_End_Normal
+      takeName: Aris_Original_Move_End_Normal
+      firstFrame: 0
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Vital_Retreat
+      takeName: Aris_Original_Vital_Retreat
+      firstFrame: 0
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Exs_Root
+      takeName: Aris_Original_Exs_Root
+      firstFrame: 0
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Victory_End
+      takeName: Aris_Original_Victory_End
+      firstFrame: 0
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Cafe_Reaction
+      takeName: Aris_Original_Cafe_Reaction
+      firstFrame: 0
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Normal_Attack_End
+      takeName: Aris_Original_Normal_Attack_End
+      firstFrame: 0
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Normal_Attack_Delay
+      takeName: Aris_Original_Normal_Attack_Delay
+      firstFrame: 0
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Exs
+      takeName: Aris_Original_Exs
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Exs_Cutin
+      takeName: Aris_Original_Exs_Cutin
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Cafe_Idle
+      takeName: Aris_Original_Cafe_Idle
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Vital_Panic
+      takeName: Aris_Original_Vital_Panic
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Vital_Dying_Ing
+      takeName: Aris_Original_Vital_Dying_Ing
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Aris_Original_Cafe_Walk
+      takeName: Aris_Original_Cafe_Walk
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
